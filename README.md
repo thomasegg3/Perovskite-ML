@@ -1,6 +1,6 @@
 # Perovskite-ML
 This project is my attempt at using chemical features to predict the crystal quality or 'score' of lead-halide perovskite crystals.
-The PSKITE.CSV dataset contains a wealth of data regarding different A-site cations, reaction conditions and solvents that correspond to 
+The PSKITECSV.csv dataset contains a wealth of data regarding different A-site cations, reaction conditions and solvents that correspond to 
 a crystal score for each experimental run. 
 
 I attempt to use scikit-learn classification models along with EDA and feature engineering in order to maximize the accuracy of classifications
